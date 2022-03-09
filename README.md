@@ -1,12 +1,13 @@
 
 University ranking are a bragging right to showcase the strength and growth of a university. This study seeks to answer the following questions:
-	What type of university is mostly ranked and why?
 
-	What is the impact of university size on their ranking?
+What type of university is mostly ranked and why?
 
-	What is the important of academic research for a university?
+What is the impact of university size on their ranking?
 
-	Which region has the highest number of universities on the rank?
+What is the important of academic research for a university?
+
+Which region has the highest number of universities on the rank?
 
 To answer these questions, I analyzed the latest QS world ranking dataset from Kaggle. It covers a 6 years period between 2017 and 2022. I used Python programming and Jupyter notebook to complete this project.
 
